@@ -26,4 +26,4 @@ The theme must be in your [[http://matsguru.com/latex-hack-adding-a-custom-cls-t
 
 ** Credits 
 A project to convert the [[https://www.imt-atlantique.fr/][IMT Atlantique]] document model to a LaTeX project.
-Architecture inspired by [[https://fr.sharelatex.com/templates/thesis/harvard-phd][Harvard Thesis]] 
+Architecture inspired by [[https://fr.sharelatex.com/templates/thesis/harvard-phd][Harvard Thesis]].
