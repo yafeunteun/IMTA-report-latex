@@ -212,9 +212,9 @@ BoldItalicFont=Arial-BoldItalic
 \newcommand{\acknowledgments}{
 	\chapter*{Remerciements}
 	\noindent
-%	\input{frontmatter/thanks}
-%	\vspace*{\fill} 
-%	\newpage
+	\input{frontmatter/thanks}
+	\vspace*{\fill} 
+	\newpage
 	\setcounter{page}{1}
 	\pagenumbering{arabic}}
 	
