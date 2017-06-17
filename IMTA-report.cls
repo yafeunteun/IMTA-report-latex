@@ -10,7 +10,7 @@
 % --------------------------------------------------------------------
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{IMTA-rapport}
+\ProvidesClass{IMTA-report}
 \LoadClass[12pt, oneside, a4paper]{report}
 
 
